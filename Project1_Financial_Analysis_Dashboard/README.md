@@ -27,7 +27,7 @@ The goal of this project was to create an interactive and visually appealing ana
 - **Excel**: Performed initial data cleaning and preparation.
 
 ## Dashboard Overview
-![Financial Analysis Dashboard](./Dashboard_Screenshot.png)
+![Financial Analysis Dashboard](https://github.com/AnalystSudipta/BI_Portfolio/blob/main/Project1_Financial_Analysis_Dashboard/1_MainPage.png)
 
 ## Files
 - **[Data](./Data/Sample_Data.xlsx)**: A sample sanitized dataset used for the analysis.
