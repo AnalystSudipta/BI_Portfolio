@@ -30,8 +30,8 @@ The goal of this project was to create an interactive and visually appealing ana
 ![Financial Analysis Dashboard](https://github.com/AnalystSudipta/BI_Portfolio/blob/main/Project1_Financial_Analysis_Dashboard/1_MainPage.png)
 
 ## Files
-- **[Data](./Data/Sample_Data.xlsx)**: A sample sanitized dataset used for the analysis.
-- **[Report](./Reports/JB_Traders_Report.pdf)**: A detailed report summarizing the insights and findings.
+- **[Data]([Project1_Financial_Analysis_Dashboard/Data](https://github.com/AnalystSudipta/BI_Portfolio/blob/main/Project1_Financial_Analysis_Dashboard/Data/SampleFinancial_Data.xls))**: A sample sanitized dataset used for the analysis.
+
 
 ## Insights
 1. **Key Growth Areas**:
